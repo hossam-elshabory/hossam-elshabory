@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/hossam-elshabory/" target="blank">
 Hossam</a></h1>
 
-![Github profile banner](https://user-images.githubusercontent.com/33160969/196057862-85f4be65-4a06-4170-9404-d43cee2dc32f.png)
+![Github profile banner](https://user-images.githubusercontent.com/33160969/196063749-90d9a19d-c805-414f-adef-1b26346b1c0b.png)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
